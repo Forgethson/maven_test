@@ -3,7 +3,7 @@ import org.junit.Test;
 
 public class TestStudent {
     @Test
-    public void baseTest() {
+    public void baseTestStudent() {
         Student student = new Student();
         student.setName("wjd");
         student.setID(0);
